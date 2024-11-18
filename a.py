@@ -10,5 +10,8 @@ def main2():
 def mian3():
     print('hello')
 
+def add_dev():
+    print('hello')
+
 if __name__ == '__main__':
     main()
