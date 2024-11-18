@@ -1,1 +1,7 @@
-print(123)
+# encoding: utf-8
+import pandas as pd
+def main():
+    pass
+
+if __name__ == '__main__':
+    main()
