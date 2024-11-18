@@ -4,7 +4,7 @@ def main():
     pass
 
 def main2():
-    print('hell1')
+    print('hello')
 
 
 def mian3():
